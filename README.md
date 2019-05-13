@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Exploring the Impact of Management and Process in Academic Research Software
 
-You can use the [editor on GitHub](https://github.com/sharriet/impars/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Principal investigator
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dr Sorrel Harriet
 
-### Markdown
+## Affiliations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ Leeds Trinity University
++ Software Sustainability Instritute
 
-```markdown
-Syntax highlighted code block
+## Objectives
 
-# Header 1
-## Header 2
-### Header 3
+This study seeks to map the organisational structures and management processes adopted by academics and RSEs on small-large scale research software projects. The primary goal will be to gain a deeper understanding of common problems linked to process and develop recommendations that are sensitive to different organisational structures. Such recommendations could also serve as a useful reference to research councils who do not yet consider the impact of management and process on the outcomes of software and technical product (STP) deliverables. A secondary goal will be to encourage more openness around error and imperfection in the academic research software context. While computer scientists understand why "sometimes good enough is good enough" the principle may be less well rooted in the rest of academia where the need for clarity has tended to surpass the need for complexity.
 
-- Bulleted
-- List
+You can read about the motivation behind this research via [Medium](https://medium.com/@sorrelharriet), as well as via [Sorrel's SSI application video](https://drive.google.com/file/d/1YJKsd4WBfwDdyzM3VMfTun73g3mAlqpp/view?usp=sharing).
 
-1. Numbered
-2. List
+## Call for participation
 
-**Bold** and _Italic_ and `Code` text
+The study is to be conducted in 2 phases, both of which rely on outsider participation. Anyone interested in participating in either phase of this study should contact s.harriet(at)leedstrinity.ac.uk.
 
-[Link](url) and ![Image](src)
-```
+### Phase 1: Case study interviews
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The aim here is to conduct a series of anonymised case study interviews with a broad cross-section of academic software 'teams'. The word 'team' is used in a loose sense as the team need not be a traditional group of developers working on a project simultaneously. The team could consist of a single developer and senior academic who is supervising the project; or it could be a succession of developers who have worked on the same project at different stages in its life cycle. The only constraints are that the project was funded over a finite period and included software or technical products as primary outputs.
 
-### Jekyll Themes
+### Phase 2: Working group
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sharriet/impars/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Once the interview data has been collated, it will be reported and a working group established to derive recommendations from it. The working group is likely to meet during late Spring/Summer 2020, allowing time either side for the acquisition of case study data and formalising the output of the working group.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
