@@ -1,4 +1,4 @@
-# Exploring the Impact of Management and Process in Academic Research Software
+# Exploring the Impact of Management and Process on Academic Research Software
 
 ## Principal investigator
 
