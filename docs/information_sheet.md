@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am Sorrel Harriet, a fellow of the Software Sustainability Institute working for Leeds Trinity University. I am doing research on project management processes adopted by academics developing software for research purposes. I am going to give you information and invite you to be part of this research. You do not have to decide today whether or not you will participate in the research. Before you decide, you can talk to anyone you feel comfortable with about the research. This consent form may contain words that you do not understand. Please contact me if you would like me to explain anything in more detail. I can be contacted via my institutional email, s.harriet(at)leedstrinity.ac.uk.
+I am Sorrel Harriet, a fellow of the Software Sustainability Institute working for Leeds Trinity University. I am doing research on project management processes adopted by academics developing software for research purposes. I am going to give you information and invite you to be part of this research. You do not have to decide today whether or not you will participate in the research. Before you decide, you can talk to anyone you feel comfortable with about the research. This information sheet may contain words that you do not understand. Please contact me if you would like me to explain anything in more detail. I can be contacted via my institutional email, s.harriet(at)leedstrinity.ac.uk.
 
 ## Purpose of the research
 
