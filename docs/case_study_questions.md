@@ -39,6 +39,5 @@ Here are some additional guidelines we'd like you to be aware of:
 + Occasionally the interviewer may skip a question if they feel it has already been answered, or they may add additional questions to encourage deeper reflection or elaboration of a particular point. Please do not be worried by this.
 + If at any point you are unsure how to answer a question, please tell the interviewer. Either they will try to reframe the question, or they will skip it and move on.
 + You will notice that pens and paper are available at the interview. Please feel free to use them as a communication aid where applicable. Occasionally you may be prompted to do so by the interviewer.
-+ Don't worry about revealing identifiable characteristics of the project through your narrative. If the details are deemed relevant enough 
 
 
