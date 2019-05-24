@@ -78,6 +78,6 @@ I will give you an opportunity at the end of the interview/discussion to review 
 
 ## Who to contact
 
-If you have any questions, you can ask them at any time before, during or after the interview. If you wish to ask questions, you may contact Sorrel Harriet by email (s.harriet(at)leedstrinity.ac.uk, or by telephone ().
+If you have any questions, you can ask them at any time before, during or after the interview. If you wish to ask questions, you may contact Sorrel Harriet by email (s.harriet(at)leedstrinity.ac.uk), or by telephone on +44 (0) 113 4673972.
  
 This proposal has been reviewed and approved by the School of Arts and Communications Ethics Committee at Leeds Trinity University, which is a committee whose task it is to make sure that research participants are protected from harm. If you wish to find about more about this committee, contact ethics(at)leedstrinity.ac.uk.
