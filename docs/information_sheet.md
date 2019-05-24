@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am Sorrel Harriet, a fellow of the Software Sustainability Institute working for Leeds Trinity University. I am doing research on project management processes adopted by academics developing software for research purposes. I am going to give you information and invite you to be part of this research. You do not have to decide today whether or not you will participate in the research. Before you decide, you can talk to anyone you feel comfortable with about the research. This information sheet may contain words that you do not understand. Please contact me if you would like me to explain anything in more detail. I can be contacted via my institutional email, s.harriet(at)leedstrinity.ac.uk.
+I am Sorrel Harriet, a fellow of the Software Sustainability Institute working for Leeds Trinity University. I am doing research on project management processes adopted by academics developing software for research purposes. I am going to give you information and invite you to be part of this research. You do not have to decide today whether or not you will participate in the research. Before you decide, you can talk to anyone you feel comfortable with about the research. This information sheet may contain words that you do not understand. Please contact me if you would like me to explain anything in more detail (see 'Who to contact' section).
 
 ## Purpose of the research
 
@@ -34,15 +34,15 @@ Please refer to the [About the interviews](case_study_questions) page for a deta
 
 ## Duration
 
-The research will be conducted over a 15 month period. During that time you will be asked to give a single 1 hour interview. You will also be invited to attend a follow-up workshop in which the results of the interviews will form part of the discussion. It is entirely up to you whether or not you attend the follow-up workshop.
+The research will be conducted over a 15 month period commencing July 2019-September 2020. During that time you will be asked to give a single 1 hour interview. You will also be invited to attend a follow-up workshop in which a summary of key findings from the interviews will be open for discussion. It is entirely up to you whether or not you attend the follow-up workshop.
 
 ## Risk
 
-We are asking you to share with us some personal and confidential information, and you may feel uncomfortable talking about some of the topics. You do not have to answer any question if you don't wish to do so. You do not have to give us any reason for not responding to any question, or for refusing to take part in the interview.
+We are asking you to share with us some personal and potentially confidential information. You may feel uncomfortable talking about some of the topics. You do not have to answer any question if you don't wish to do so. You do not have to give us any reason for not responding to any question, or for refusing to take part in the interview.
 
 There is a risk that you may share some personal or confidential information by chance. If that happens you can ask that the information be disregarded (i.e. struck from the record), skip the question, or withdraw from the interview.
 
-However, we shall make every effort to protect the identity and reputation of participants in the reporting of collected information. See the proceeding confidentiality notes for more information.
+However, we shall make every effort to protect the identity and reputation of participants in the reporting of information derived from the interviews. See the proceeding section on 'Confidentiality' for more information.
 
 ## Confidentiality
 
