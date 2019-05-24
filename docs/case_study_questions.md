@@ -1,21 +1,18 @@
-# Case study interviews
+# About the interviews
 
-## About the interviews
+## Format
 
-The following questions are designed to encourage you to reflect on your project processes and management style in detail.
+The interview will be conducted face-to-face in a secure and comfortable location at your institution or remotely over a secure video conferencing platform. The interview will be conversational in style and is expected to last around 1 hour.
 
-It is important that you answer the questions as honestly as possible.
+During the interview you are asked to refrain from answering non-urgent telephone calls/text message etc, but if you need to take a break for some other reason that is fine.
+ 
+## Questions
 
-Here are some additional guidelines we'd like you to be aware of:
+The questions asked during the interview are designed to encourage you to reflect on your project processes and management style in detail.
 
-+ It is not necessary to give a single definitive response to a question. For example, you might have competing opinions on a topic. That is allowed. You are free to explore whatever feelings you have about a project, regardless of how positive or cynical they are.
-+ It is fine to go off on tangents. At times your mind might wander onto something that doesn't seem obviously connected. Don't let that stop you from exploring that idea. The interviewer will pull you back if necessary.
-+ Occasionally the interviewer may skip a question if they feel it has already been answered, or they may add additional questions to encourage deeper reflection or elaboration of a particular point. Please do not be worried by this.
-+ If at any point you are unsure how to answer a question, please tell the interviewer. Either they will try to reframe the question, or they will skip it and move on.
-+ You will notice that pens and paper are available at the interview. Please feel free to use them as a communication aid where applicable. Occasionally you may be prompted to do so by the interviewer.
-+ Don't worry about revealing identifiable characteristics of the project through your narrative. If the details are deemed relevant enough 
+It is important that you answer the questions as honestly as possible, although you do not have to disclose anything you do not feel comfortable disclosing.
 
-## Example questions
+Questions you are likely to be asked include the following:
 
 + What do you think were the success criteria for the project?
 + How was the project funded and are you able to say roughly how much was allocated and over what time scale? (ranges is fine)
@@ -33,16 +30,15 @@ Here are some additional guidelines we'd like you to be aware of:
 + If you were to start the project again under the same external conditions, is there anything you would change about your own contributions, or any ways you might try to influence others? ('external conditions' is meant to imply 'factors beyond your direct control')
 + If you were able to restart the project under different external conditions, what would those conditions ideally be? Are there any ways you might influence them?
 
-## How we intend to preserve anonymity
+## Additional guidelines
 
-+ Identifying characteristics of a project or individual will not be reported
-+ Data may be paraphrased and/or aggregated to avoid 'deductive' identification
-+ Voice recordings, diagrams and anything handwritten during the interview will be destroyed after the information has been extrapolated
+Here are some additional guidelines we'd like you to be aware of:
 
-## Right to withdraw
++ It is not necessary to give a single definitive response to a question. For example, you might have competing opinions on a topic. That is allowed. You are free to explore whatever feelings you have about a project, regardless of how positive or cynical they are.
++ It is fine to go off on tangents. At times your mind might wander onto something that doesn't seem obviously connected. Don't let that stop you from exploring that idea. The interviewer will pull you back if necessary.
++ Occasionally the interviewer may skip a question if they feel it has already been answered, or they may add additional questions to encourage deeper reflection or elaboration of a particular point. Please do not be worried by this.
++ If at any point you are unsure how to answer a question, please tell the interviewer. Either they will try to reframe the question, or they will skip it and move on.
++ You will notice that pens and paper are available at the interview. Please feel free to use them as a communication aid where applicable. Occasionally you may be prompted to do so by the interviewer.
++ Don't worry about revealing identifiable characteristics of the project through your narrative. If the details are deemed relevant enough 
 
-Participants in this study reserve the right to withdraw at any time without needing to give a reason.
 
-This would result in the complete removal of your unpublished response data from our records.
-
-Aggregated data that has already been published would remain in the public domain.
