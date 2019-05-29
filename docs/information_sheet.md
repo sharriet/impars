@@ -70,6 +70,8 @@ You will not be provided any incentive to take part in the research. However, we
 
 Nothing that you tell us today will be shared with anybody outside the research team, and nothing will be attributed to you by name. The knowledge that we get from this research will be shared with you and your community before it is made widely available to the public. Each participant will receive a summary of the results. There will also be a workshop-style meeting in the community which will be announced. Following the workshop meeting, we will publish the results so that other interested people may learn from the research.
 
+In the future we may make the raw anonymised interview data available to the research community via an open data platform called [datacite.org](http://datacite.org). Should this happen you retain the right to request its removal at any time, without giving a reason.
+
 ## Right to refuse or withdraw
 
 You do not have to take part in this research if you do not wish to do so. Choosing not to participate or to stop participating in the interview at any time will not prohibit you from attending the follow-up workshop. 
