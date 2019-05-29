@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am Sorrel Harriet, a fellow of the Software Sustainability Institute working for Leeds Trinity University. I am doing research on project management processes adopted by academics developing software for research purposes. I am going to give you information and invite you to be part of this research. You do not have to decide today whether or not you will participate in the research. Before you decide, you can talk to anyone you feel comfortable with about the research. This consent form may contain words that you do not understand. Please contact me if you would like me to explain anything in more detail. I can be contacted via my institutional email, s.harriet(at)leedstrinity.ac.uk.
+I am Sorrel Harriet, a fellow of the Software Sustainability Institute working for Leeds Trinity University. I am doing research on project management processes adopted by academics developing software for research purposes. I am going to give you information and invite you to be part of this research. You do not have to decide today whether or not you will participate in the research. Before you decide, you can talk to anyone you feel comfortable with about the research. This information sheet may contain words that you do not understand. Please contact me if you would like me to explain anything in more detail (see 'Who to contact' section).
 
 ## Purpose of the research
 
@@ -30,19 +30,19 @@ We are asking you to help us learn more about software project management proces
 
 During the interview, I  will sit down with you in a secure and comfortable place at your institution. If it is better for you, the interview can take place at Leeds Trinity University, in your home, or over a secure video conferencing platform (Zoom). If you do not wish to answer any of the questions during the interview, you may say so and the interviewer will move on to the next question. No one else but the interviewer will be present unless you would like someone else to be there. The information recorded is confidential, and no one else will have access to the information documented during your interview. The entire interview will be recorded, but no-one will be identified by name on the recording. The recording will be stored on an SD card and transferred to a secure server shortly after the interview has taken place. The information recorded is confidential, and no one else except myself and IT Services at Leeds Trinity University will have access to the recordings. The recordings will later be transcribed to text and then deleted. The transcribing and deletion of recorded information will take place within 6 weeks. The transcribed information may then be held on secure servers for a minimum of 10 years following the publication of any papers associated with the data. Should no publications result, the data will be deleted after 2 years.
 
-Please refer to the [About the interviews](case_study_questions) page for a detailed explanation of the interview format and the types of questions that will be asked.
+Please refer to the [About the interviews](case_study_questions.md) page for a detailed explanation of the interview format and the types of questions that will be asked.
 
 ## Duration
 
-The research will be conducted over a 15 month period. During that time you will be asked to give a single 1 hour interview. You will also be invited to attend a follow-up workshop in which the results of the interviews will form part of the discussion. It is entirely up to you whether or not you attend the follow-up workshop.
+The research will be conducted over a 15 month period commencing July 2019-September 2020. During that time you will be asked to give a single 1 hour interview. You will also be invited to attend a follow-up workshop in which a summary of key findings from the interviews will be open for discussion. It is entirely up to you whether or not you attend the follow-up workshop.
 
 ## Risk
 
-We are asking you to share with us some personal and confidential information, and you may feel uncomfortable talking about some of the topics. You do not have to answer any question if you don't wish to do so. You do not have to give us any reason for not responding to any question, or for refusing to take part in the interview.
+We are asking you to share with us some personal and potentially confidential information. You may feel uncomfortable talking about some of the topics. You do not have to answer any question if you don't wish to do so. You do not have to give us any reason for not responding to any question, or for refusing to take part in the interview.
 
 There is a risk that you may share some personal or confidential information by chance. If that happens you can ask that the information be disregarded (i.e. struck from the record), skip the question, or withdraw from the interview.
 
-However, we shall make every effort to protect the identity and reputation of participants in the reporting of collected information. See the proceeding confidentiality notes for more information.
+However, we shall make every effort to protect the identity and reputation of participants in the reporting of information derived from the interviews. See the proceeding section on 'Confidentiality' for more information.
 
 ## Confidentiality
 
@@ -80,6 +80,6 @@ I will give you an opportunity at the end of the interview/discussion to review 
 
 ## Who to contact
 
-If you have any questions, you can ask them at any time before, during or after the interview. If you wish to ask questions, you may contact Sorrel Harriet by email (s.harriet(at)leedstrinity.ac.uk, or by telephone ().
+If you have any questions, you can ask them at any time before, during or after the interview. If you wish to ask questions, you may contact Sorrel Harriet by email (s.harriet(at)leedstrinity.ac.uk), or by telephone on +44 (0) 113 4673972.
  
 This proposal has been reviewed and approved by the School of Arts and Communications Ethics Committee at Leeds Trinity University, which is a committee whose task it is to make sure that research participants are protected from harm. If you wish to find about more about this committee, contact ethics(at)leedstrinity.ac.uk.
