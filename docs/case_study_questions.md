@@ -15,8 +15,6 @@ It is important that you answer the questions as honestly as possible, although 
 Questions you are likely to be asked include the following:
 
 + What do you think were the success criteria for the project?
-+ How was the project funded and are you able to say roughly how much was allocated and over what time scale? (ranges is fine)
-	+ e.g. £1-2 million over 5 years, from UKRI council
 + Outline the roles and responsibilities of those involved in the project.
 + Could you depict their involvement on a timeline?
 + Who were the other stakeholders involved in the project? (e.g. research council, HoD, the public etc.)
@@ -29,6 +27,8 @@ Questions you are likely to be asked include the following:
 + Do you think the project was successful?
 + If you were to start the project again under the same external conditions, is there anything you would change about your own contributions, or any ways you might try to influence others? ('external conditions' is meant to imply 'factors beyond your direct control')
 + If you were able to restart the project under different external conditions, what would those conditions ideally be? Are there any ways you might influence them?
++ Did you receive feedback from the stakeholders during or after the project?
++ (If applicable) are you aware of any other projects in the same call? If so, which of these do you perceive as being successful and why?
 
 ## Additional guidelines
 
