@@ -23,7 +23,7 @@ You can read about the motivation behind this research via [Medium](https://medi
 
 ## Call for participation
 
-The study is to be conducted in 2 phases, both of which rely on outsider participation. Anyone interested in participating in either phase of this study should contact s.harriet(at)leedstrinity.ac.uk.
+The study is to be conducted in 2 phases, both of which rely on outsider participation. Further information for participants is presented [here](https://github.com/sharriet/impars/blob/master/docs/information_sheet.md).
 
 ### Phase 1a: Case study interviews
 
