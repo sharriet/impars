@@ -13,10 +13,12 @@ NB: Some of these questions can be answered from open data sources.
 
 + How much funding did the project receive? (from data)
 + Over what time scale was the project funded? (from data)
++ How would you describe the initial deadline imposed on this project?
++ How would you rate the completeness of the project at the initial deadline?
++ Was the initial budget met?
++ Were the outputs and production processes different from those anticipated by the initial budget?
 + Did the project deliverables meet the acceptance criteria? (i.e. did it meet some predefined requirements)
 + How would you rate the quality of the deliverables relative to what you initially set out to achieve?
-+ Were they delivered on time?
-+ Did the project stay within budget?
 + (Stakeholders only) How would you rate your satisfaction with the project outcomes?
 + (Developers only) How would you rate your learning on this project?
 + (Developers only) How would you rate the impact of this project on your professional development?
