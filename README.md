@@ -27,7 +27,7 @@ The study is to be conducted in 2 phases, both of which rely on outsider partici
 
 ### Phase 1a: Case study interviews
 
-The aim here is to conduct a series of anonymised case study interviews with a broad cross-section of academic software 'teams'. The word 'team' is used in a loose sense as the team need not be a traditional group of developers working on a project simultaneously. The team could consist of a single developer and senior academic who is supervising the project; or it could be a succession of developers who have worked on the same project at different stages in its life cycle. The only constraints are that the project was funded over a finite period and included software or technical products as primary outputs.
+The aim here is to conduct a series of anonymised case study interviews with a broad cross-section of academic software 'teams'. The word 'team' is used in a loose sense as the team need not be a traditional group of developers working on a project simultaneously. The team could consist of a single developer and senior academic who is supervising the project; or it could be a succession of developers who have worked on the same project at different stages in its life cycle. The only constraints are that the project was funded over a finite period and included software or technical products as primary outputs. Examples of questions that may be asked at interview are available [here](docs/case_study_questions.md).
 
 ### Phase 1b: Stakeholder survey
 
