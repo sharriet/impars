@@ -8,7 +8,7 @@ You are someone I would like to talk to due to your involvement with the [FUNDIN
 
 Your participation in this research would involve taking part in a one-to-one interview at your institution or over a web-based video conferencing platform. You may also be asked to complete a short electronic survey after the interview. Your participation in this research would be anonymous.
 
-You are invited to find out more about the the project and interview format via the [IMPARS web pages](https://sharriet.github.io/impars/). There you may also access sample [interview](https://sharriet.github.io/impars/docs/case_study_quesntions.md) and [electronic survey]((https://sharriet.github.io/impars/docs/quantitative_survey_questions.md) questions. 
+You are invited to find out more about the the project and interview format via the [IMPARS web pages](https://sharriet.github.io/impars/). There you may also access sample [interview](https://sharriet.github.io/impars/docs/case_study_questions.md) and [electronic survey](https://sharriet.github.io/impars/docs/quantitative_survey_questions.md) questions. 
 
 If you are willing to participate or have any further questions, please respond to this email.
 
