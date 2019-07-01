@@ -23,7 +23,7 @@ You can read about the motivation behind this research via [Medium](https://medi
 
 ## Call for participation
 
-The study is to be conducted in 2 phases, both of which rely on outsider participation. Further information for participants is presented [here](https://github.com/sharriet/impars/blob/master/docs/information_sheet.md).
+The study is to be conducted in 2 phases, both of which rely on outsider participation. Further information for participants is presented [here](docs/information_sheet.md).
 
 ### Phase 1a: Case study interviews
 
