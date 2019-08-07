@@ -20,7 +20,8 @@ Questions you are likely to be asked include the following:
 + Who were the other stakeholders involved in the project? (e.g. research council, HoD, the public etc.)
 + Where would you position each of the stakeholders on the Power vs Interest chart?
 + How regularly did you communicate with each of the stakeholders you've identified and via what means?
-+ What was involved in the planning of the project?
++ What was involved in the planning of the project and what planning occurred before the funding application was approved?
++ Who was involved in the reporting of the project outputs/deliverables?
 + During your time working on this project, what tools or methodologies did you use to manage workflow and keep track of the work?
 + What did your own work pattern look like on this project? For example, was there a regular block of time set aside each week?
 + Were there any extended periods over which the project was either completely inactive or you were not contributing to it? If so, what do you think were the reasons for this.
