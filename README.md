@@ -15,7 +15,7 @@ Research is increasingly software dependent across all stages in the project lif
 
 ## Objectives
 
-This study seeks to map the organisational structures and management processes adopted by academics and RSEs on small-large scale research software projects. The primary goal will be to gain a deeper understanding of common problems linked to process and develop recommendations that are sensitive to different organisational structures. Such recommendations could also serve as a useful reference to research councils who do not yet consider the impact of management and process on software and technical product (STP) outcomes. An attempt shall also be made to quantify the relative success of past projects and to look for process similarities between those which are perceived to be most successful. Any such correlation might strengthen the case for following a recommended process.
+This study seeks to map the organisational structures and management processes adopted by academics and RSEs on small-large scale research software projects. The primary goal will be to gain a deeper understanding of common problems linked to process and develop recommendations that are sensitive to different organisational structures. Such recommendations could also serve as a useful reference to research councils who may have difficulty evaluating the robustness of proposals involving substantial software and/or technical product (STP) outcomes, particularly when planning and process-related documentation may only be presented at the end of a project. An attempt shall also be made to quantify the relative success of past projects and to look for process similarities between those which are perceived to be most successful.
 
 A secondary goal will be to encourage a culture of openness around imperfection and experiential learning in the academic research software context.
 
@@ -23,15 +23,15 @@ You can read about the motivation behind this research via [Medium](https://medi
 
 ## Call for participation
 
-The study is to be conducted in 2 phases, both of which rely on outsider participation. Further information for participants is presented [here](https://github.com/sharriet/impars/blob/master/docs/information_sheet.md).
+The study is to be conducted in 2 phases, both of which rely on outsider participation. [Further information for participants is presented here](docs/information_sheet.md).
 
 ### Phase 1a: Case study interviews
 
-The aim here is to conduct a series of anonymised case study interviews with a broad cross-section of academic software 'teams'. The word 'team' is used in a loose sense as the team need not be a traditional group of developers working on a project simultaneously. The team could consist of a single developer and senior academic who is supervising the project; or it could be a succession of developers who have worked on the same project at different stages in its life cycle. The only constraints are that the project was funded over a finite period and included software or technical products as primary outputs. Examples of questions that may be asked at interview are available [here](docs/case_study_questions.md).
+The aim here is to conduct a series of anonymised case study interviews with a broad cross-section of academic software 'teams'. The word 'team' is used in a loose sense as the team need not be a traditional group of developers working on a project simultaneously. The team could consist of a single developer and senior academic who is supervising the project; or it could be a succession of developers who have worked on the same project at different stages in its life cycle. The only constraints are that the project was funded over a finite period and included software or technical products as primary outputs. [Examples of questions that may be asked at interview are available here](docs/case_study_questions.md).
 
 ### Phase 1b: Stakeholder survey
 
-This short electronic survey seeks to obtain some quantitative data from interview participants and from key stakeholders identified during the interviews. It can be conducted during or after the interviews. Examples of questions which will appear in this survey are available [here](docs/quantitative_survey_questions.md).
+This short electronic survey seeks to obtain some quantitative data from interview participants and from key stakeholders identified during the interviews. It can be conducted during or after the interviews. [Examples of questions which will appear in the survey are available here](docs/quantitative_survey_questions.md).
 
 ### Phase 2: Working group
 

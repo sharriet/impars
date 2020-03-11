@@ -20,13 +20,15 @@ Questions you are likely to be asked include the following:
 + Who were the other stakeholders involved in the project? (e.g. research council, HoD, the public etc.)
 + Where would you position each of the stakeholders on the Power vs Interest chart?
 + How regularly did you communicate with each of the stakeholders you've identified and via what means?
-+ What was involved in the planning of the project?
-+ What tools or methodologies did you use to manage workflow and keep track of the work?
-+ What did your own work pattern look like while on the project? For example, how much time did you allocate to it in a typical week?
-+ Were there any extended periods over which the project was either completely inactive or you were not contributing to it?
-+ Do you think the project was successful?
-+ If you were to start the project again under the same external conditions, is there anything you would change about your own contributions, or any ways you might try to influence others? ('external conditions' is meant to imply 'factors beyond your direct control')
-+ If you were able to restart the project under different external conditions, what would those conditions ideally be? Are there any ways you might influence them?
++ What was involved in the planning of the project and what planning occurred before the funding application was approved?
++ Who was involved in the reporting of the project outputs/deliverables?
++ During your time working on this project, what tools or methodologies did you use to manage workflow and keep track of the work?
++ What did your own work pattern look like on this project? For example, was there a regular block of time set aside each week?
++ Were there any extended periods over which the project was either completely inactive or you were not contributing to it? If so, what do you think were the reasons for this.
++ In retrospective, do you think the project itself was successful?
++ In retrospective, how do you feel about your own contribution on this project?
++ If you were to start the project again under the same external conditions, is there anything you would change about your own contribution? ('external conditions' is meant to imply 'factors beyond your direct control')
++ If you were able to restart the project under ideal conditions, what would those conditions be? Are there any ways you might influence them?
 + Did you receive feedback from the stakeholders during or after the project?
 + (If applicable) are you aware of any other projects in the same call? If so, which of these do you perceive as being successful and why?
 
