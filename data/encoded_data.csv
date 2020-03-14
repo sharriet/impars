@@ -1,0 +1,359 @@
+reviewers,C,18531,-1,3
+interaction,H,2753,-1,7
+software engineering background,A,1630,1,4
+RSE or similar role,A,2335,0,4
+development process,A,3683,1,5
+working software,A,6428,1,5
+changing requirements,A,9954,0,8
+agile process,A,9233,0,5
+project manager,A,13005,0,1
+split between projects,A,27468,0,4
+hands-off PI,A,27951,0,1
+PM role ambiguous,A,28966,-1,1
+inexperienced PM,A,30794,-1,1.0
+unstructured meetings,A,31355,-1,7.0
+partner involvement,A,34042,-1,6.0
+reference to proposal,A,35489,1,8
+requirements specification,A,35758,1,5
+software documentation,A,37278,1,5
+not much involved with reporting,A,37567,0,3
+transparency,A,39611,1,5
+flexible work patterns,A,41601,0,2
+cost of context change,A,42274,0,8
+schedule interactions,A,43085,1,7
+scheduling, A, 44475, 1, 5,
+prestigious event, A, 46988, 1, 6,
+secured futher funding, A, 47303, 1, 8,
+low engagement from partners, A, 48630, -1, 6
+under-resourced,A,56392,-1,4
+needed more time,A,57555,-1,8
+inexperienced PM,A,58684,-1,4
+no feedback on deliverables,A,61230,-1,3
+not actively maintained,B,2633,0,8
+small team,B,5585,0,4
+ambiguous UX process,B,8742,0,5
+PI absent,B,13403,-1,1
+founded on assumption,B,14710,0,8
+hard to manage partners,B,13211,-1,6
+continuous feedback,B,15718,1,5
+disparate teams divergent interests,B,17740,-1,2
+integration between partners,B,20012,-1,5
+not involved with reporting,B,23168,0,3
+PI high-level goals,B,25282,0,1
+face-to-face interactions,B,27075,-1,7
+commitment to shared schedule,B,28911,-1,5
+redoing work,B,31177,-1,5
+inspection,B,33267,1,5
+communication,B,33960,0,7
+wants accountability,B,34965,0,7
+shared view of work,B,35331,1,5
+lone working lowers priority,B,37567,-1,7
+industry experience,B,39216,1,4
+bad experience of agile,B,40187,0,5
+unofficial PM,B,41358,-1,1
+less focus on quality,B,43457,0,2
+software engineering background,C,516,1,4
+EU more closely monitored,C,1114,1,3
+partner engagement,C,2321,0,6
+integration between partners ,C,3071,-1,6
+real world seen as ambitious,C,4378,1,5
+specific expertise in teams,C,5195,1,4
+not much involved with reporting,C,12753,0,3
+SME not after a product,C,14101,1,6
+EU PO weird demands,C,17614,-1,3
+EU PO power limited to work plans,C,19936,0,3
+some engineers not invested,C,21640,-1,7
+less focus on quality,C,23838,0,2
+face-to-face interaction,C,26178,1,7
+work package inflexible,C,28021,-1,3
+art to proposal writing,C,28820,0,3
+different from UK funding,C,29132,-1,3
+alternative model EU provides PM,C,31353,0,3
+dogmatic agile,C,34255,0,5
+further funding for spin-off,C,39494,1,8
+subsequent proposals refused,C,41913,-1,8
+no soft success metric,C,42892,-1,3
+not initially versed in UCD,C,46205,1,5
+wanted transparency,C,46848,0,7
+partners doing own thing,C,48159,-1,7
+inexperienced post-docs,C,50343,-1,2
+manage expectations,C,52709,0,2
+not a software engineer,E,304,0,4
+writes code but not software,E,2052,0,5
+team aren't engineers,E,3218,-1,4
+aware of version control,E,4271,0,5
+code hard to maintain,E,5840,-1,4
+paper economy,E,6594,-1,2
+science and code skills,E,6969,0,4
+handover to industry,E,7056,0,8
+software disappears,E,7435,-1,8
+research licenses,E,7762,1,6
+"no UI, difficult to commercialise",E,9562,-1,8
+past intellectual property dispute,E,10143,-1,8
+SME engagement,E,11536,0,6
+partner diverging interest,E,12879,0,6
+enjoys working with other experts,E,17087,1,7
+impact in maths needs software,E,20175,0,8
+lone wolfs,E,22568,0,2
+detailed planning,E,23401,0,5
+no customer,E,26766,0,3
+hates box ticking and time tracking,E,29880,0,2
+not trained as managers,E,30477,-1,1
+process undocumented,E,31106,0,5
+organic scheduling,E,31659,0,5
+delegation frustration,E,32308,-1,4
+copyright dispute,E,35363,-1,8
+learning is success,E,36344,1,7
+not all PIs want to manage,E,38180,-1,1
+under resourcing,E,41754,-1,4
+no administrative support,E,43097,-1,4
+SME organic collaboration no contract,E,48559,0,6
+industry experience,F,406,1,4
+motivated by science and collaboration,F,1271,1,2
+avoids closed projects,F,1563,0,5
+past intellectual property dispute,F,1856,-1,8
+open-source only,F,2134,1,5
+stranded projects,F,7252,-1,4
+funding for maintenence hard,F,8878,-1,8
+mainenence grant too short term,F,9459,-1,8
+no structure to team interactions,F,18774,-1,7
+long-term roadmapping meetings,F,19117,1,5
+non-hierarchical team structure,F,19358,1,7
+no core office hours,F,20132,0,7
+semi-frequent interactions,F,20710,1,7
+PI involved at beginning,F,22103,0,1
+PI not publishing,F,23074,-1,1
+github and kanban,F,26250,1,5
+spirit of agile but not tools,F,27305,0,5
+continuous integration,F,31650,1,5
+RSE not culture of overwork,F,33365,1,2
+not a secure job for life,F,34374,-1,8
+decisions made by individuals,F,39099,-1,5
+silos are bad,F,40455,-1,5
+under funded,F,45733,-1,4
+lacking leadership,F,55964,-1,1
+RSE humanities background,G,666,0,4
+no industry experience,G,2421,-1,4
+roles not formally defined,G,6185,0,7
+one PI left so funding for dev available,G,10176,-1,4
+PIs lacked power over devs,G,14831,-1,1
+developers had a lot of power,G,15738,-1,1
+personal investment mattered,G,15930,-1,7
+PI hands off reviewed reports,G,18480,0,3
+no technical review of deliverables,G,19556,-1,3
+infrequent project meetings,G,23435,0,5
+semi-frequent team meetings,G,23945,1,5
+constant feedback,G,26023,1,5
+absent PI,G,28084,0,7
+stuck to WPs,G,28786,1,5
+AHRC light on reporting,G,30510,0,3
+no code quality checks,G,31458,-1,3
+detailed user documentation,G,31896,0,8
+private repositories,G,32918,-1,8
+bug tracking system,G,33467,1,5
+developed own system for prioritisation,G,34563,1,5
+finds view of big picture helpful,G,35810,1,5
+planning was high level,G,37988,0,5
+conflict of priorities at irregular project meets,G,38662,-1,5
+time paid for by multiple projects,G,41666,0,4
+testing not built in from start,G,44678,-1,5
+learning on the job and making mistakes,G,45317,-1,4
+PI unable to resolve dev disputes,G,46471,-1,1
+problems with bespoke platforms,G,47710,-1,5
+parallel projects/duplicated effort,G,47992,-1,5
+devs too much power,G,50559,-1,1
+inexperienced working in teams,G,53123,-1,7
+clash of priorities,G,55158,-1,7
+decisions based on assumptions,G,55324,-1,5
+knowledge silos,G,56658,-1,5
+questionable hiring rationale,G,57378,-1,4
+lack of respect,G,59479,-1,7
+pair programming,G,61347,1,5
+PIs not project managers,G,63360,-1,1
+PIs cannot direct devs,G,64150,-1,1
+selfish decisions,G,66119,-1,7
+university roles limit interaction,H,3798,-1,2
+time constraints maintain focus,H,4326,1,5
+a lot of support,H,7375,1,4
+focus and intensity,H,7793,1,5
+develops tools for end users,H,9114,0,2
+design team deal with UI,H,9969,1,4
+communication with users,H,10209,1,5
+well funded,H,17061,1,4
+income generating,H,9969,1,8
+iterative process,H,23895,1,5
+constant feedback from users,H,24067,1,5
+impact generating through publications,H,24933,0,8
+accountibility,H,25532,1,4
+share physical space,H,27638,1,7
+version control,H,28598,1,5
+daily interactions,H,29857,1,7
+unis not enough time for face-to-face,H,31333,-1,2
+teaching good for communication skill,H,32332,1,2
+too much teaching is stifling,H,32648,-1,2
+lack of continuity with PhDs,H,37315,-1,2
+software has very specific application,H,38578,0,8
+civil engineering background,J,244,0,4
+somewhat exploratory,J,2982,0,8
+PM-type role also involved day-to-day,J,3903,1,5
+partners working on pieces of a whole,J,5856,1,6
+two years to submit proposal,J,10801,0,3
+PI was hands-on,J,15195,1,1
+inconsistent project officers,J,16472,-1,3
+flexibility in WP but inflexible reporting,J,17540,0,3
+semi-frequent interactions,J,26419,1,5
+lot of preliminary work,J,27964,0,8
+high level timeline,J,33995,1,5
+beurocratic delays,J,34820,-1,8
+no version control system,J,38709,-1,5
+EC review process very rigourous,J,43686,0,3
+external partner engagement,J,46587,-1,6
+has had PM training,J,47668,1,1
+challenging managing partners,J,48225,0,6
+unfulfilled promises,J,50037,-1,5
+lack of transparency,J,50804,-1,7
+non-programmer co-PI,K,272,0,1
+involved with data modelling,K,1694,0,4
+unofficial PM role,K,4251,1,1
+semi-frequent interactions,K,19560,0,5
+absent PI,K,21079,0,1
+seeking integration with partner,K,21658,0,6
+replacing obsolete software,K,22264,0,8
+light reporting,K,23474,0,3
+one-shot reporting,K,23474,-1,3
+project not graded,K,24412,0,3
+face-to-face meetings,K,25532,1,5
+bug tracker used inconsistently,K,26220,-1,5
+Google docs not allowed,K,26755,-1,5
+scholars work alongside developers,K,28154,1,7
+worked on live data,K,29616,-1,5
+inaccurate work models,K,31446,-1,4
+devs most power least accountable,K,34805,-1,1
+personal goals before users,K,35132,-1,7
+project dependent on individuals,K,36516,-1,7
+clearly defined checkpoints needed,K,36879,-1,5
+responsibilities need sharing,K,39060,0,7
+couldn't hire commercial dev,K,40402,0,4
+hire people they worked with before,K,41509,-1,4
+not enough testing,K,43669,-1,5
+felt project too small for PM,K,47116,-1,1
+received further funding,K,49417,1,8
+comp sci background,M,313,0,4
+industry experience,M,873,1,4
+business and PM experience,M,2552,1,4
+tight schedule,M,3960,0,5
+high pressure,M,4950,0,5
+close communication,M,5048,1,7
+strong collective responsibility,M,5101,1,7
+PhD agenda secondary,M,5662,1,7
+excellent grades,M,6030,1,3
+worked with startups,M,6890,1,6
+commercial application,M,6978,0,8
+democratic,M,16437,1,1
+highly structured and organised,M,20727,1,5
+doc sharing,M,21816,1,5
+employed agile,M,21150,1,5
+transparency,M,22092,1,5
+collaborative with partners,M,23241,1,6
+collaborative reporting,M,25611,1,3
+agile process,M,29755,1,5
+hired experienced devs,M,31924,1,4
+conflicts of interest,M,33205,-1,7
+conflict resolved through communication,M,34251,1,7
+very intense,M,41007,-1,8
+feedback from users,M,41640,1,3
+STEM background,N,866,0,4
+drifted into development,N,955,0,4
+limited industry experience,N,1543,-1,4
+bifurcation of success criteria,N,2472,-1,6
+creative reporting,N,5988,-1,3
+end user developers,N,10612,0,8
+cannot compete with industry,N,12206,-1,4
+many divergent interests,N,16136,-1,7
+deliverables loosely defined,N,18994,-1,5
+SME engagement,N,20507,-1,6
+conflicting interests,N,22592,-1,7
+defining and aligning goals,N,23299,-1,6
+creative reporting,M,23672,-1,3
+failures not reported,N,24179,-1,3
+agile incompatible,N,27148,0,5
+slack and git,N,27645,1,5
+small inexperienced team,N,28039,-1,4
+overlaying divergent strands,N,29364,0,6
+devs too little power,N,30054,-1,4
+PM lacked experience,N,30299,-1,1
+weak collaboration,N,32199,-1,6
+lacking guided approach,N,36622,-1,1
+"lacked focus, definition",N,36695,-1,5
+recruit on skill,N,39860,-1,4
+lacked sense of ownership,N,40707,-1,7
+SoC and interest,N,40947,-1,5
+unstructured feedback,N,41454,-1,3
+tools and training helpful,N,42162,1,5
+no quality checks,N,46122,-1,3
+no looking at the detail,N,47249,-1,3
+computer science background,I,250,0,4
+limited industry experience,I,1278,-1,4
+fairly clear success criteria,I,2098,1,8
+parallel development,I,5369,-1,7
+dev interest low,I,6604,-1,7
+succession of PMs,I,9639,-1,1
+PMs no influence,9365,-1,1
+late integration,I,6960,-1,5
+low uptake,I,13038,-1,8
+poorly attended events,I,13733,-1,7
+many publications,I,14308,1,8
+software didn't survive,I,14480,-1,5
+research project,I,15149,0,8
+parts of software improved,I,15871,1,8
+absent PI,I,17545,-1,7
+disconnected strands,I,18291,-1,5
+detailed proposal,I,19453,1,8
+core consortium established,I,20484,1,6
+proposal stripped back,I,21044,-1,4
+amending consortium lengthy,I,21575,-1,8
+not critical enough,I,22609,-1,3
+impartial reviewers needed,I,23175,0,3
+no review bad for project,I,23487,0,3
+feedback not always helpful,I,24643,-1,3
+needed more funding flexibility,I,26261,-1,4
+primitive SD processes,I,28353,-1,5
+private repos,I,28412,0,5
+slack,I,28492,1,7
+primitive communication,I,29025,-1,7
+no overview,I,29391,-1,5
+poorly managed,I,29569,-1,1
+detached PM,I,30122,,
+under resourced,I,30958,-1,4
+lack of ownership,I,31511,-1,7
+personal agendas,I,32492,-1,7
+inexperienced PhD developer,I,32868,-1,4
+agree to OS in advance,I,37972,0,5
+intellectual property,I,38122,0,8
+software didn't survive,I,41620,-1,5
+was not scrutinized,I,42076,-1,3
+felt scope too broad,I,44796,-1,8
+wanted issue tracking,I,45793,0,5
+full agile inappropriate,I,45837,0,5
+engineering background,O,2104,0,4
+developed software in academia,O,3484,0,4
+deliver working software,O,4373,0,8
+easy for non-developers to use,O,4559,0,8
+consortium established,O,7133,1,6
+infrequent formal meets,O,14551,0,5
+frequent interaction,O,14711,1,5
+was involved in planning,O,15486,1,7
+transparent proposal,O,15824,1,8
+shared responsibility for reporting,O,17845,1,3
+software open source,O,18415,1,5
+version control,O,18842,1,5
+development platform,O,19408,1,5
+shared infrastructure,O,19896,1,5
+clear about IP,O,20902,1,8
+inconsistent use of Trello,O,21995,-1,5
+teams have their own way,O,22162,0,5
+felt more testing needed,O,23289,-1,5
+teaching interfered,O,25055,-1,2
+work hours created blocker,O,25797,-1,2
+unrealistic estimates,O,26733,-1,5
+commitment inconsistent,O,27805,-1,7
